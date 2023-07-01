@@ -5,6 +5,7 @@
 -  I'm currently working with learnspace.africa
 - 📫 How to reach me ladicorp24m@gmail.com
 - Leaning system design and architecture
+- Finished Learning Docker and Kubernetes
 
 <!---
 LadipoSanni/LadipoSanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
