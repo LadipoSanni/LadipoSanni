@@ -7,6 +7,7 @@
 - Leaning system design and architecture
 - Finished Learning Docker and Kubernetes
 - Done with ansible and terraform
+-Started Learning networking
 
 <!---
 LadipoSanni/LadipoSanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
