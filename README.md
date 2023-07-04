@@ -9,6 +9,7 @@
 - Done with ansible and terraform
 -Started Learning networking
 -Introduction to Cyber security
+-completed Intro to Cyber Security Course
 
 <!---
 LadipoSanni/LadipoSanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
