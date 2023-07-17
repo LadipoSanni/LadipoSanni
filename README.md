@@ -12,6 +12,7 @@
 -completed Intro to Cyber Security Course
 -certificate in cyber security expert
 -My first fsi startup clinic with Mrs Aituaz and Mr Olaolu 10/07/2023
+-AWS account payment 
 
 <!---
 LadipoSanni/LadipoSanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
