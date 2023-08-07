@@ -22,3 +22,5 @@ New Project Supervision
 DevOps Job interview questions 7/15/2023
 -Started working with Dmajor
 preparing for AWS DevOops certification
+AWS fundamentals
+Started working with AWS customer service
