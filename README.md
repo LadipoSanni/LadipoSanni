@@ -24,3 +24,4 @@ DevOps Job interview questions 7/15/2023
 preparing for AWS DevOops certification
 AWS fundamentals
 Started working with AWS customer service
+Amazon FBA
