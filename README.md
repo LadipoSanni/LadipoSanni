@@ -25,3 +25,4 @@ preparing for AWS DevOops certification
 AWS fundamentals
 Started working with AWS customer service
 Amazon FBA Business on Amazon 
+-Data Platform and atomation
