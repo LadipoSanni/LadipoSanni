@@ -27,3 +27,4 @@ Started working with AWS customer service
 Amazon FBA Business on Amazon 
 Starting with static web pages for AWS practice with Amplify
 -Data Platform and automation 22/08/2023
+-AWS services- Amplify, Lambda, API gateway
