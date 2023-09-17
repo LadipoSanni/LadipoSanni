@@ -10,7 +10,7 @@
 -Started Learning networking
 -Introduction to Cyber security
 -completed Intro to Cyber Security Course
--certificate in cyber security expert
+-Getting certificate in cyber security expert
 -My first fsi startup clinic with Mrs Aituaz and Mr Olaolu 10/07/2023
 -AWS account payment
 -Learning Go
