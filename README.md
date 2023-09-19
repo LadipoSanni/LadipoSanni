@@ -28,4 +28,4 @@ Amazon FBA Business on Amazon
 -Data Platform and automation 22/08/2023
 -AWS services- Amplify, Lambda, API gateway
 -Started new position Springboot java developer
-Got certificate of completion: Intro to cyber security
+-Introduction to cyber security Certificate
