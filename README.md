@@ -29,3 +29,4 @@ Amazon FBA Business on Amazon
 -AWS services- Amplify, Lambda, API gateway
 -Started new position Springboot java developer
 -Introduction to cyber security Certificate
+-FUD microfinance Bank (@taidrck)
