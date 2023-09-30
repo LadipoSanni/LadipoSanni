@@ -32,3 +32,4 @@ Amazon FBA Business on Amazon
 -FUD microfinance Bank 
 -Team work at the Mifos
 -started working cloud engineering...FUD
+Learning Penetration Testing
