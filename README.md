@@ -31,3 +31,4 @@ Amazon FBA Business on Amazon
 -Introduction to cyber security Certificate
 -FUD microfinance Bank 
 -Team work at the Mifos
+-started working cloud engineering...FUD
