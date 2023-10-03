@@ -32,4 +32,4 @@ Amazon FBA Business on Amazon
 -Team work at the Mifos
 -started working cloud engineering...FUD
 Learning Penetration Testing
-Registered for Nithub cloud computing bootcam and certification
+Registered for Nithub cloud computing bootcamp and certification
