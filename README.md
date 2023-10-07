@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on Building an e-commerce fashion application.
 -  I'm currently working freelance
 - 📫 How to reach me ladicorp24m@gmail.com
-- Learning system design and architecture
+- Learned system design and architecture
 - Finished Learning Docker and Kubernetes
 - Done with ansible and terraform
--Started Learning networking
+-Still Learning networking
 -Introduction to Cyber security
 -completed Intro to Cyber Security Course
 -Getting certificate in cyber security expert
