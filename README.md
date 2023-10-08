@@ -34,3 +34,4 @@ Amazon FBA Business on Amazon
 -Learning Penetration Testing
 -Registered for Nithub cloud computing bootcamp and certification
 -Nithub unboarding
+-completed the first task
