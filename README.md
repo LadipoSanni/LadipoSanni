@@ -35,3 +35,4 @@ Amazon FBA Business on Amazon
 -Registered for Nithub cloud computing bootcamp and certification
 -Nithub unboarding
 -completed the first task
+-having issues completing the second Task
