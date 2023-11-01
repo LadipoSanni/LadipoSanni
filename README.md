@@ -38,4 +38,3 @@ Amazon FBA Business on Amazon
 -Nithub Git/Github with Udacity
 -Nithub Pyhon with Udacity 
 Code Review with the Snr Engr T.A1
--E no run oo
