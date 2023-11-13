@@ -41,4 +41,5 @@ Code Review with the Snr Engr T.A1
 1/11/23...
 Paid...
 Nithub 4th week
-Nithub deadline
+Nithub deadline met. Got a Cloud Explorer Badge
+Finishedd Nithub cloud computing first session
