@@ -42,6 +42,6 @@ Code Review with the Snr Engr T.A1
 
 Nithub 4th week
 Nithub deadline met. Got a Cloud Explorer Badge
-Finishedd Nithub cloud computing first session
+Finished Nithub cloud computing first session (Got a Study Partner too Dr R. I)
 Got a Nithub LMS cloud Explorer Badge
 
