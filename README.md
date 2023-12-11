@@ -28,7 +28,7 @@ Amazon FBA Business on Amazon
 -Started new position Springboot java developer
 -Introduction to cyber security Certificate
 -FUD microfinance Bank 
--Team work at the Mifos
+-Team work at the Mifos..on standby
 -started working cloud engineering...FUD
 -Learning Penetration Testing
 -Registered for Nithub cloud computing bootcamp and certification
