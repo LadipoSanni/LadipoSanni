@@ -43,5 +43,5 @@ Nithub 4th week
 Nithub deadline met. Got a Cloud Explorer Badge
 Finished Nithub cloud computing first session (Got a Study Partner too Dr R. I)
 Got a Nithub LMS cloud Explorer Badge
-Container and container orchestration with Kubernettes and Docker
+Container and container orchestration
 
