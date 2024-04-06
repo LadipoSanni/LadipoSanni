@@ -16,7 +16,7 @@
 ok
 LadipoSanni/LadipoSanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 DevOps Job interview questions 7/15/2023
 preparing for AWS DevOops certification
 AWS fundamentals
@@ -46,3 +46,4 @@ Got a Nithub LMS cloud Explorer Badge
 Container and container orchestration
 01/01/2024
 Interview
+Designer Spree for 6month
