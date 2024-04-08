@@ -46,3 +46,4 @@ Container and container orchestration
 01/01/2024
 Interview
 Designer Spree for 6month
+Mon 8/4/24...semicolon labs
