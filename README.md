@@ -47,4 +47,5 @@ Container and container orchestration
 Interview
 Designer Spree for 6month
 Mon 8/4/24...semicolon labs
+
 Started DevOps Role at semicolon 02/04/24
