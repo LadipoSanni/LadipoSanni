@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LadipoSanni
-- 👀 I’m interested in Software engineering
+- 👀 I’m a Software engineer
 - 🌱 I’m currently working with DevOps tools like Docker,Kubernettes, Ansible,and others
 - 💞️ I’m looking to collaborate on Building an e-commerce fashion application.
--  I'm currently working freelance
+-  I'm currently working with semicolon as a devops engineer
 - 📫 How to reach me ladicorp24m@gmail.com
 - Learned system design and architecture
 - Finished Learning Docker and Kubernetes
