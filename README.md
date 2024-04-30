@@ -7,7 +7,7 @@
 - Learned system design and architecture
 - Finished Learning Docker and Kubernetes
 - Done with ansible and terraform
--Still Learning networking
+-Still Learning networking...going back to networking
 -Introduction to Cyber security
 -completed Intro to Cyber Security Course
 -Getting certificate in cyber security expert
