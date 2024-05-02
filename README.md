@@ -18,7 +18,7 @@ LadipoSanni/LadipoSanni is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 DevOps Job interview questions 7/15/2023
 preparing for AWS DevOops certification
-AWS fundamentals
+AWS deep diving 2/4/24...
 Started working with AWS customer service
 Amazon FBA Business on Amazon 
 -AWS practice with Amplify
