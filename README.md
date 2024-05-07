@@ -50,3 +50,4 @@ Mon 8/4/24...semicolon labs
 OSI model
 Started DevOps Role at semicolon 02/04/24
 Putting Everything together fullstack
+PolyRepo/MonoRepo in my microservice
