@@ -49,7 +49,6 @@ Designer Spree for 6month
 Mon 8/4/24...semicolon labs
 OSI model
 Started DevOps Role at semicolon 02/04/24
-Putting Everything together fullstack
-PolyRepo/MonoRepo in my microservice
-HML interview today 14/05
-I am now a master at using AWS UI
+19/05/2024 Mr Taiwo called again 
+HML interview today 14/05 Deploy on prem...
+
