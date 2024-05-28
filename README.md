@@ -51,4 +51,5 @@ OSI model
 Started DevOps Role at semicolon 02/04/24
 19/05/2024 Mr Taiwo called again 
 HML interview today 14/05 Deploy on prem...
+Deploying using elestio, keycloak, and terraform
 
