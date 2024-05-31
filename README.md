@@ -2,7 +2,7 @@
 - 👀 I’m a Software engineer
 - 🌱 I’m currently working with DevOps tools like Docker,Kubernettes, Ansible,and others
 - 💞️ I’m looking to collaborate on Building an e-commerce fashion application.
--  I'm currently working with semicolon as a devops engineer
+-  I'm currently working with semicolon as a Cloud Engineer 31/05/2024 (DevOps Team)
 - 📫 How to reach me ladicorp24m@gmail.com
 - Learned system design and architecture
 - Finished Learning Docker and Kubernetes
