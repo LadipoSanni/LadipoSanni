@@ -53,4 +53,4 @@ Started DevOps Role at semicolon 02/04/24
 HML interview today 14/05 Deploy on prem...
 Deploying using elestio, keycloak, and terraform
 Starting my book on cloud Engineering
-
+Grilling process...7/6/24
