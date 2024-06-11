@@ -54,3 +54,4 @@ HML interview today 14/05 Deploy on prem...
 Deploying using elestio, keycloak, and terraform
 Starting my book on cloud Engineering
 Grilling process...7/6/24
+Paul Springboot, Emmanuel Devops
