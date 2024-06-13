@@ -50,7 +50,7 @@ Mon 8/4/24...semicolon labs
 OSI model
 Started DevOps Role at semicolon 02/04/24
 19/05/2024 Mr Taiwo called again 
-HML interview today 14/05 Deploy on prem...
+HML interview today 14/05 Deploy on prem...still with labs
 Deploying using elestio, keycloak, and terraform
 Starting my book on cloud Engineering
 Grilling process...7/6/24
