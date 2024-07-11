@@ -6,7 +6,6 @@
 - 📫 How to reach me ladicorp24m@gmail.com
 - Learned system design and architecture
 - Finished Learning Docker and Kubernetes
-- Done with ansible and terraform
 -Still Learning networking...going back to networking
 -Introduction to Cyber security
 -completed Intro to Cyber Security Course
