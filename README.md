@@ -13,8 +13,8 @@
 -My first fsi startup clinic with Mrs Aituaz and Mr Olaolu 10/07/2023
 -AWS account payment...suspended(17/12/2023)
 
-LadipoSanni/LadipoSanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+LadipoSanni/LadipoSanni is a ✨ special ✨ repository because its `README.md`
+
 DevOps Job interview questions 7/15/2023
 preparing for AWS DevOops certification
 AWS deep diving 2/4/24...
